@@ -1,2 +1,2 @@
-# URCMethod
+# URC Method
 A Jupyter notebook with an implementation of the URC metho
